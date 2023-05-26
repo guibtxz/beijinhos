@@ -1,0 +1,16 @@
+body{
+    background: url(1507776.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    text-align: center;
+    color: red;
+}
+
+button{
+    background-color: greenyellow;
+    width: 600px;
+    height: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
